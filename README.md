@@ -6,10 +6,6 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-04?style=social">
-  </a>
 </p>
 
 <p align="center">
