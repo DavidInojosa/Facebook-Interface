@@ -1,5 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html,
 body {
-  background: #7159c1;
-  color:#FFFFFF;
+  background: #F2F2F2;
+  color:black;
   font-family: Arial, Arial, Helvetica, sans-serif;
+}
+.techlist {
+  width: 700px;
+  margin: 0 auto 20px;
+}
+
+.tech {
+  margin-top: 30px;
+  border-radius: 8px;
+  background: white;
+  padding: 25px;
+  color: #3e3e3e;
+  line-height: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.tech-header {
+  display:flex;
+  align-items: center;
+}
+
+.tech-header .detail {
+  margin-left: 10px;
+  display:flex;
+  flex-direction: column;
+  font: size 11px;
+  color: #9a9a9a;
+  line-height:14px;
+}
+
+.tech-header .detail span:nth-child(1) {
+  font-size: 14px;
+  color: #4a4a4a;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.tech-header .detail span:nth-child(2){
+  font-size: 12px;
+}
+
+.avatar { 
+  min-height: 30px;
+  min-width: 30px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+.tech-content {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.divider {
+  margin-top: 30px;
+  width: 100%;
+  height: 1px;
+  background: #eeeeee;
+}
+
+.tech-comment {
+  margin-top: 20px;
+}
+
+.comment {
+  margin-top: 20px;
+  display:flex;
+  
+}
+
+.comment span {
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+.comment p {
+  border-radius: 20px;
+  background: #eeeeee;
+  margin-left:10px;
+  padding: 15px;
+  font-size: 13px;
 }

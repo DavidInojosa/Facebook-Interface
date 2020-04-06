@@ -1,6 +1,16 @@
-import { React } from "react";
+import React from "react";
+import './App.css';
+import Header from "./components/Header";
+import TechList from "./components/TechList";
+
 function App() {
-  return <h1> Hello RocketSeat</h1>
+  return (
+    <>
+      <Header />
+      <TechList />
+    </>
+  );
+
 }
 
 export default App;

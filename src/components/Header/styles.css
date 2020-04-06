@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+mainheader {
+  height: 60px;
+  width: 100%;
+  padding: 0 42px;
+  background: #2f65da;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  display: inline-flex;
+  justify-content:  space-between;
+  align-items: center;
+}
+
+mainheader span  {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0px 15px 15px 15px;
+}
