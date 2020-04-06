@@ -8,7 +8,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
 </p>
 
-## :rocket: Sobre o desafio
+## Sobre o desafio
 
 Crie uma aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
@@ -16,21 +16,16 @@ Nessa aplicação você irá desenvolver uma **interface** semelhante com a do *
 
 As informações contidas na interface são **estáticas** e não precisam refletir nenhuma API REST ou back-end.
 
-### Tela da aplicação
+### Tela da aplicação do resultado final:
 
-![Facebook](.github/facebook.png)
 
-O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
-O mais importante é que todos elementos apareçam em tela.
 
-O layout da aplicação está [nesse link](.github/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
+
 
 ### Componentes
 
-Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
-
-![Componentes](.github/components.png)
+**Obs: Eu usei TechList e Tech ao invés de PostList e Post já que eu ja havia iniciado um projetor react com esses nomes, apenas adaptei para esse projeto.
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
