@@ -22,7 +22,8 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 
 
-screenshot.png
+https://user-images.githubusercontent.com/49165221/78700780-47258180-78dc-11ea-86ba-913983252bff.png
+
 
 ### Componentes
 
